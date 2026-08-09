@@ -1,0 +1,1 @@
+# Nova-america-regras.

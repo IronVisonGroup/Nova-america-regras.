@@ -11,3 +11,4 @@ Bem-vindo ao manual oficial de regras da **Nova América Roleplay** — uma cida
 Use o menu ao lado para navegar entre os códigos: apresentação, regras gerais, roleplay, empregos, ações, ilegal, justiça, polícia, exércitos e territórios.
 
 > ⚠️ O desconhecimento das regras não isenta ninguém de responsabilidade. Leia com atenção.
+

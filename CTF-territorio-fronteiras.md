@@ -1,4 +1,4 @@
-# 🗺️ CÓDIGO DE TERRITÓRIO, FRONTEIRAS E SOBERANIA (CTF)
+![](.gitbook/assets/banner-ctf.png)
 
 Este código regulamenta a geografia, as fronteiras, a soberania dos territórios e a disputa pelas regiões de extração de matéria-prima da **Nova América**. Define quem controla cada país, como se atravessa uma fronteira e como funciona a dominação territorial entre o **Exército Brasileiro** e o **Exército do Paraguai**.
 

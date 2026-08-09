@@ -1,3 +1,5 @@
+![](.gitbook/assets/aresentacao-selection.png)
+
 # 🎴 NOVA AMÉRICA
 
 A **Nova América** é uma cidade de roleplay pertencente à **IRON VISION GROUP**, criada e pensada desde o início para trazer diferenciais reais aos jogadores. Todos os nossos sistemas foram desenvolvidos pela própria equipe — scripts novos e exclusivos, feitos para enriquecer e aprofundar o roleplay.

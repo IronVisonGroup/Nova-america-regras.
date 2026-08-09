@@ -153,7 +153,7 @@ A administração possui **autonomia total** para intervir em disputas territori
 ***
 
 {% hint style="warning" %}
-**ATENÇÃO**
+![](.gitbook/assets/banner-atencao.png)
 
 Ao permanecer na **Nova América**, o jogador declara estar ciente de que todos os códigos, normas, regras e diretrizes aqui descritos encontram-se publicamente disponíveis para consulta. O desconhecimento, a não leitura ou a interpretação equivocada de qualquer conteúdo **não** isenta o jogador de responsabilidade, tampouco de sanções administrativas ou roleplay.
 
